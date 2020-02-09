@@ -1,0 +1,70 @@
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.pdb
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form1.resources
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form2.resources
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form3.resources
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Properties.Resources.resources
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csproj.GenerateResource.Cache
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.exe
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.pdb
+C:\BELGELERİM\Visual Studio 2010\Projects\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form4.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.exe
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.pdb
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.pdb
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form1.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form2.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form3.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form4.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Properties.Resources.resources
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.pdb
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.pdb
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form1.resources
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form2.resources
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form3.resources
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Form4.resources
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Properties.Resources.resources
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.exe
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.exe
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.pdb
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.pdb
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csprojResolveAssemblyReference.cache
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Properties.Resources.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csproj.GenerateResource.Cache
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe.config
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\bin\Debug\BuySellDB.accdb
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.sistgiris.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.satisekr.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.arcekle.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.sifredegis.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.aracgoruntule.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.yoneticiekrani.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.tmslcekrn.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.satilmisaraclar.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.maraclist.resources
+C:\Users\BerkeTemel\Desktop\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.calisanliste.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\bin\Debug\BuySellDB.accdb
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe.config
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.exe
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\bin\Debug\OTOgaleri.pdb
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csprojAssemblyReference.cache
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.calisanliste.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.sistgiris.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.satisekr.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.arcekle.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.sifredegis.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.aracgoruntule.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.maraclist.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.Properties.Resources.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.satilmisaraclar.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.tmslcekrn.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.yoneticiekrani.resources
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.csproj.GenerateResource.cache
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.exe
+C:\Users\ishak\OneDrive\Masaüstü\OTOgaleri\OTOgaleri\obj\x86\Debug\OTOgaleri.pdb
